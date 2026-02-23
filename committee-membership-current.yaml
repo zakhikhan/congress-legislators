@@ -9661,6 +9661,11 @@ HSII15:
   rank: 5
   bioguide: B001323
 HSAG15:
+- name: Frank D. Lucas
+  party: majority
+  rank: 1
+  title: Chairman
+  bioguide: L000491
 - name: Andrea Salinas
   party: minority
   rank: 1
@@ -15960,58 +15965,71 @@ HSAP10:
   rank: 9
   bioguide: M001228
 HSGO16:
+- name: Tim Burchett
+  party: majority
+  rank: 1
+  title: Chairman
+  bioguide: B001309
 - name: Melanie A. Stansbury
   party: minority
   rank: 1
   title: Ranking Member
   bioguide: S001218
-- name: Michael Cloud
+- name: Nancy Mace
   party: majority
   rank: 2
-  bioguide: C001115
+  bioguide: M000194
 - name: Eleanor Holmes Norton
   party: minority
   rank: 2
   bioguide: N000147
-- name: Pat Fallon
+- name: Michael Cloud
   party: majority
   rank: 3
-  bioguide: F000246
+  bioguide: C001115
 - name: Stephen F. Lynch
   party: minority
   rank: 3
   bioguide: L000562
-- name: William R. Timmons IV
+- name: Pat Fallon
   party: majority
   rank: 4
-  bioguide: T000480
+  bioguide: F000246
 - name: Greg Casar
   party: minority
   rank: 4
   bioguide: C001131
-- name: Tim Burchett
+- name: William R. Timmons IV
   party: majority
   rank: 5
-  bioguide: B001309
+  bioguide: T000480
 - name: Jasmine Crockett
   party: minority
   rank: 5
   bioguide: C001130
-- name: Eric Burlison
+- name: Lauren Boebert
   party: majority
   rank: 6
-  bioguide: B001316
+  bioguide: B000825
 - name: Suhas Subramanyam
   party: minority
   rank: 6
   bioguide: S001230
-- name: Brian Jack
+- name: Anna Paulina Luna
   party: majority
   rank: 7
+  bioguide: L000596
+- name: Eric Burlison
+  party: majority
+  rank: 8
+  bioguide: B001316
+- name: Brian Jack
+  party: majority
+  rank: 9
   bioguide: J000311
 - name: Brandon Gill
   party: majority
-  rank: 8
+  rank: 10
   bioguide: G000603
 HSHM05:
 - name: August Pfluger
